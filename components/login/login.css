@@ -1,0 +1,55 @@
+.galeria2 {
+    color: hsl(26deg, 77%, 59%);
+    font-family: "Oswald", sans-serif;
+    font-size: 22px;
+    display: flex;
+    justify-content:center;
+    text-align: center;
+    align-items: center;
+    text-shadow: 5px 5px 10px #000000;
+    background-color:rgb(59, 51, 94) ;
+    border: inset;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.carrusel {
+    margin-top:5%;
+    margin-bottom:15%;
+}
+
+.foto6{
+    animation: myAnim6 3s ease 0s 1 normal forwards;
+}
+
+.form2 {
+    background-color: rgb(98, 95, 109);
+    border: inset;
+    font-family: "Oswald", sans-serif;
+    color:hsl(26deg, 77%, 59%);
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-box-shadow: 11px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 11px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 11px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.foto2 {
+    animation: myAnim3 3s ease 0s 1 normal forwards;
+}
+
+.form3 {
+    background-color: rgb(98, 95, 109);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: inset;
+    font-family: "Oswald", sans-serif;
+    color:hsl(26deg, 77%, 59%);
+    font-size: 21px;
+    -webkit-box-shadow: 11px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 11px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 11px 10px 5px 0px rgba(0, 0, 0, 0.75);
+
+  }
